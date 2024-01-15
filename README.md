@@ -7,11 +7,13 @@ In this report, we focus on a simplified task, such as vertical edge detection,
 for training a convolutional kernel on a synthetic dataset of labeled images,
 in which the convolution is performed on a GPU architecture, according to a
 proper parallelization strategy.
-
+<p align="center">
+  <img src="https://github.com/gomax22/gpu-accelerated-convolutional-kernel-training/blob/main/ParallelizationStrategyConvolution.png" width="750" height="750" />
+</p>
 
 ---
 ## Report description
-The report covers several theoretical and implementative aspect of the solution, such as:
+The report covers several theoretical and implementative aspects of the solution, such as:
 * **Problem definition and analysis**: definition of convolution in neural networks, convolutional layers and their training phase. 
 * **Input and Output**: definition of expected input and output of the problem
 * **Algorithm description**: definition of the parallelization strategy for performing the convolution as dot products
