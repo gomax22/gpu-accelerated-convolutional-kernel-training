@@ -21,6 +21,9 @@ The report covers several theoretical and implementative aspects of the solution
 * **Performance analysis**: discussion of the experimental results
 * **Usage examples**: usage description of the software (some examples are reported)
 
+#### [Link to the report](https://github.com/gomax22/gpu-accelerated-convolutional-kernel-training/blob/main/HPC_Report_Massimiliano_GiordanoOrsini.pdf)
+
+
 *DISCLAIMER: other optimization details can be performed for improving the code and getting a faster implementation. However, this hands-on project leverages on educational purposes: clarifying some concepts about convolutional layers, both from theoretical and implementative aspects, and practicing with basic CUDA routines.*
 
 
