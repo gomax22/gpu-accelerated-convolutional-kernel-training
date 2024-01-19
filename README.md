@@ -16,7 +16,7 @@ proper parallelization strategy.
 The report covers several theoretical and implementative aspects of the solution, such as:
 * **Problem definition and analysis**: definition of convolution in neural networks, convolutional layers and their training phase. 
 * **Input and Output**: definition of expected input and output of the problem
-* **Algorithm description**: definition of the parallelization strategy for performing the convolution as dot products
+* **Algorithm description**: definition of the parallelization strategy for performing the convolution as dot product
 * **Implemented routines**: implementation of the proposed parallelization strategy 
 * **Performance analysis**: discussion of the experimental results
 * **Usage examples**: usage description of the software (some examples are reported)
