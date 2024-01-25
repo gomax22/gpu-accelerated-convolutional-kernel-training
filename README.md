@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/gomax22/gpu-accelerated-convolutional-kernel-training/blob/main/frontcover.jpg"/>
 </p>
+
 ## Abstract
 Convolutional layers are a key component of several deep learning models, such
 as Convolutional Neural Networks (CNNs), which have been particularly successful
